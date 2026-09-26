@@ -3,6 +3,17 @@
     <channel>
         <title>actanum</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Sat, 26 Sep 2026 19:56:52 +0000</pubDate>
+            <sparkle:version>203</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://pierre-monier.github.io/actanum-release/ActaNum-1.0.1.dmg" length="34589599" type="application/octet-stream" sparkle:edSignature="5kDUogsuDYcQoa6s3M9fCf0/KQEM4d9Gt+vOBtCljCzz6Vfvkn2ZWxK4fwnVaAsi75fFJthNqOskUBqj1d5eDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://pierre-monier.github.io/actanum-release/actanum203-202.delta" sparkle:deltaFrom="202" length="31094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NrWGhqubosDtpvLoF2nR41m2X18lBOp9uiSgXrzz+PlceCC+TENh7GsnlvmvotbmDD5ADV2CoVhBZ3wBnLrvDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Sat, 26 Sep 2026 19:19:50 +0000</pubDate>
             <sparkle:version>202</sparkle:version>
