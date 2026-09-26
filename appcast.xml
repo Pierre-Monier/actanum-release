@@ -8,7 +8,7 @@
             <sparkle:version>202</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://pierre-monier.github.io/actanum-release/ActaNum-1.0.0.dmg" length="34589661" type="application/octet-stream" sparkle:edSignature="X4oL0yw6TWmPGi0pZCuU51mq6uq/7BIdEe9P5MRnfL9h/gYpb9xTFTrNp5OhDos6jUECohr599HhQTphvl+JBw=="/>
+            <enclosure url="https://pierre-monier.github.io/actanum-release/ActaNum-1.0.0.dmg" length="34589679" type="application/octet-stream" sparkle:edSignature="1+TPE48Ds3sS6QYGj2k+LLz2Ngfko8roim9BuZvIw2aueIBPHUFESP8q6IgXvuAhVhdkVDXrPC6stQg8Q379Ag=="/>
         </item>
     </channel>
 </rss>
